@@ -1,0 +1,2 @@
+# template gazeta
+ gazeta-noticias
